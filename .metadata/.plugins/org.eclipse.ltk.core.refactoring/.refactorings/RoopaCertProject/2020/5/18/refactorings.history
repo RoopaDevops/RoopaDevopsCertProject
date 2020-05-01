@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;RoopaCertProject.RoopaCertProject.AppTest&apos; to &apos;CertificationTestVersion1&apos;&#x0A;- Original project: &apos;RoopaCertProject&apos;&#x0A;- Original element: &apos;RoopaCertProject.RoopaCertProject.AppTest&apos;&#x0A;- Renamed element: &apos;RoopaCertProject.RoopaCertProject.CertificationTestVersion1&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;AppTest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java&lt;RoopaCertProject.RoopaCertProject{AppTest.java[AppTest" matchStrategy="1" name="CertificationTestVersion1" qualified="false" references="true" similarDeclarations="false" stamp="1588344515034" textual="false" version="1.0"/>
+</session>
